@@ -4,38 +4,34 @@
 
 ```json
 {
-    app: {
-        sidebar: {
-            appLogo,
-            notesTree: {
-                note: {
-                    title,
-                    uri,
-                    parentNote: {
-                        title,
-                        uri,
-                        parentNode: {
-                            ...
-                        }
+    "app": {
+        "sidebar": {
+            "appLogo"
+            "notesTree": {
+                "note": {
+                    "title"
+                    "uri"
+                    "parentNote": {
+                        "title"
+                        "uri"
+                        "parentNode": {}
                     }
                 }
             }
         },
-        main: {
-            actionsPanel :{
-                editButton,
-                deleteButton,
-                cancelButton
+        "main": {
+            "actionsPanel" :{
+                "editButton"
+                "deleteButton"
+                "cancelButton"
             },
-            currentNote: {
-                title,
-                uri,
-                parentNote: {
-                    ...
-                }
-                noteContent: {
-                    type,
-                    value
+            "currentNote": {
+                "title"
+                "uri"
+                "parentNote": {},
+                "noteContent": {
+                    "type"
+                    "value"
                 }
             }
         }
