@@ -1,4 +1,7 @@
 # project-model
+
+[Technical Requirements of the project](https://docs.google.com/document/d/1eFKIuPy_Zg02rr2sVhSVjHxXhM2JfA3dIwU1fBrOIuo/edit)
+
 ```json
 {
     app: {
