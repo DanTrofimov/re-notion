@@ -86,3 +86,10 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 }
 ```
 
+## Layouts
+
+Here you can find layouts of our application - https://www.figma.com/file/sjdWhbEM5ADcNJgvF9Av1H/re-notion?node-id=0%3A1
+
+## Task tracking
+
+Link to the Trello board, where we can manage & assign project tasks - https://trello.com/b/z6oXk0Ww/re-notion 
