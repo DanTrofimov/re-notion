@@ -97,3 +97,8 @@ Link to the Trello board, where we can manage & assign project tasks - https://t
 ## Tech requirements
 
 Link to the our tech requirements - https://docs.google.com/document/d/1eFKIuPy_Zg02rr2sVhSVjHxXhM2JfA3dIwU1fBrOIuo/edit
+
+## Related useful links
+
+* [Live-coding: Чистая архитектура во фронтенде / Александр Беспоясов](https://www.youtube.com/watch?v=h4WQRqNjmX0&t=146s)
+* [bespoyasov/frontend-clean-architecture](https://github.com/bespoyasov/frontend-clean-architecture)
