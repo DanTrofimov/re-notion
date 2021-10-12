@@ -93,3 +93,7 @@ Here you can find layouts of our application - https://www.figma.com/file/sjdWhb
 ## Task tracking
 
 Link to the Trello board, where we can manage & assign project tasks - https://trello.com/b/z6oXk0Ww/re-notion 
+
+## Tech requirements
+
+Link to the our tech requirements - https://docs.google.com/document/d/1eFKIuPy_Zg02rr2sVhSVjHxXhM2JfA3dIwU1fBrOIuo/edit
