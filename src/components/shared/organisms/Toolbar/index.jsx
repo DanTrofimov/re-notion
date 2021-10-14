@@ -10,18 +10,17 @@ const Title = styled.h1`
   color: #000000;
 `
 
-const Toolbar = () => {
+const Toolbar = ({ notesList = [] }) => {
     return (
       <nav className="toolbar">
             <Title>re-notion</Title>
             <p className="item-text">Notes list:</p>
             <ul className="item-text">
-                <li>Current note title</li>
-                <li>Current note title</li>
-                <li>Current note title</li>
-                <li>Current note title</li>
-                <li>Current note title</li>
-                <li>Current note title</li>
+              { 
+                notesList.map(({ id, title }) => {
+                  return <li key={id}>{ title }</li>
+                })
+              }
             </ul>
       </nav>
     );

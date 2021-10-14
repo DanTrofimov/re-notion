@@ -1,0 +1,39 @@
+.title {
+    font-family: Consolas;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 35px;
+    color: #000000;
+}
+
+.note-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 5%;
+}
+
+.buttons-wrapper :last-child {
+    margin-left: 25px;
+  }
+  .buttons-wrapper {
+    position: absolute;
+    right: 5%;
+    top: 9%;
+  }
+  
+  img {
+    width: 350px;
+  }
+  
+  .note-link {
+    margin-top: 5%;
+  }
+  
+  figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
