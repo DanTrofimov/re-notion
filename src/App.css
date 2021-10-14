@@ -1,8 +1,13 @@
+* { 
+  box-sizing: border-box;
+}
+
 .app-wrapper {
   display: grid;
   grid-template-areas: "toolbar content";
   grid-template-columns: 4fr 16fr;
 }
+
 .toolbar {
   grid-area: toolbar;
   height: 100vh;
@@ -35,27 +40,5 @@ button {
   color: #000000;
   background-color: #CFCFCF;
   border: none;
-}
-
-.button-wrapper :last-child {
-  margin-left: 25px;
-}
-.button-wrapper {
-  position: absolute;
-  right: 5%;
-  top: 9%;
-}
-
-img {
-  width: 350px;
-}
-
-.button-link {
-  margin-top: 5%;
-  text-decoration: underline;
-}
-figure {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  cursor: pointer;
 }
